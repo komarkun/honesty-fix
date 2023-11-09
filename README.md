@@ -1,4 +1,4 @@
-# Web-Pos-restoran
+# Honesty
 Web Point of Sale menggunakan framework laravel
 <br>
 framework yang digunakan `laravel` 
@@ -32,11 +32,10 @@ laravel: `9.52.4`
 
 #### Via Git
 ```bash
-git clone https://github.com/EriSetyawan166/web-pos-restoran.git
+git clone https://github.com/komarkun/honesty-fix.git
 ```
 
-### Download ZIP
-[Link](https://github.com/EriSetyawan166/web-pos-restoran/archive/refs/heads/master.zip)
+
 
 ### Setup Aplikasi
 Jalankan perintah 
@@ -52,7 +51,7 @@ Konfigurasi file .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=nama_database
+DB_DATABASE=honesty_fix
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -88,11 +87,3 @@ username: kasir
 <br>
 kasir   : kasir
 
-## Contributors ✨
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/EriSetyawan166"><img src="https://avatars.githubusercontent.com/u/72864742?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Eri Setyawan</b></sub></a><br/><a href="#" title="Code">💻</a> <a href="#" title="Documentation">📖</td>
-    <td align="center"><a href="https://github.com/BayuPrap"><img src="https://avatars.githubusercontent.com/u/109055176?v=4" width="100px;" alt=""/><br /><sub><b>Maulana Krisna</b></sub></a><br/><a href="#" title="Bug reports">🐛</a> <a href="#" title="erd, database">📙</a></td>
-    <td align="center"><a href="#"><img src="https://github.com/github.png" width="100px;" alt=""/><br /><sub><b>Bariq Gian Gumilang</b></sub></a><br/><a href="#" title="Bug reports">🐛</a> <a href="#" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-</table>
