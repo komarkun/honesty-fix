@@ -87,3 +87,20 @@ username: kasir
 <br>
 kasir   : kasir
 
+<br>
+Route
+
+<br>
+base awal
+<br>
+127.0.0.1:8000/ 
+
+<br>
+admin
+<br>
+127.0.0.1:8000/login 
+
+<br>
+login
+<br>
+127.0.0.1:8000/login 
